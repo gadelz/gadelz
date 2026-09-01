@@ -1,6 +1,6 @@
 <!--
 *** Based on my own journey and the projects I've built
-*** AI Engineer | Computer Vision | MLOps
+*** Applied AI Engineer | Computer Vision | MLOps
 -->
 
 <!-- Header Banner -->
