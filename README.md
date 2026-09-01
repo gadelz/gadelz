@@ -18,29 +18,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Cellex"
-        self.role = "AI Engineer"
-        self.focus = ["Computer Vision", "MLOps", "LLM"]
-        self.location = "Indonesia"
-        self.open_to_work = True
-    
-    def build(self):
-        return {
-            "models": ["YOLO", "Transformers", "LLM Fine-tuning"],
-            "deployment": ["Docker", "Kubernetes", "Cloud"],
-            "tools": ["PyTorch", "TensorFlow", "HuggingFace", "LangChain"]
-        }
-```
-
-Saya seorang AI Engineer yang fokus membangun sistem end-to-end — dari training model, pipeline MLOps, hingga deployment production. Passion di Computer Vision dan LLM.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
