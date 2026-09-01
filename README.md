@@ -8,7 +8,7 @@
 
 ![AI Engineer Banner](https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=80)
 
-### AI Engineer | Computer Vision | MLOps
+### Applied AI Engineer | Computer Vision | MLOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
